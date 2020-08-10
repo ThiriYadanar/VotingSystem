@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project is Voting Your Language. You can vote any language. This is developed by React.
+You can start this project with the following way.
+
 ## Available Scripts
 
 In the project directory, you can run:
