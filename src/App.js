@@ -29,7 +29,7 @@ class App extends Component{
     render(){
         return(
             <>
-                <h1>Vote Your Language!</h1>
+                <h1>Vote Your Language!!</h1>
                 <div className="languages">
                     {
                         this.state.languages.map((lang, i) => 
@@ -40,7 +40,7 @@ class App extends Component{
                                 <div className="languageName">
                                     {lang.name}
                                 </div>
-                                <button onClick={this.vote.bind(this, i)}>Click Here</button>
+                                <button onClick={this.vote.bind(this, i)}>Vote</button>
                             </div>
                         )
                     }
